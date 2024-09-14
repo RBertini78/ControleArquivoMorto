@@ -1,0 +1,35 @@
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.Properties.Resources.resources
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\bin\Debug\CAM.exe.config
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\bin\Debug\CAM.exe
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\bin\Debug\CAM.pdb
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.exe
+c:\documents and settings\tecnicos.cotet\meus documentos\visual studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.pdb
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\bin\Debug\CAM.exe.config
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.exe
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.pdb
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\bin\Debug\CAM.exe
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\bin\Debug\CAM.pdb
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.Frm_Principal.resources
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.Properties.Resources.resources
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NightWolf\Documents\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.frmConsulta.resources
+C:\Documents and Settings\tecnicos.COTET\meus documentos\visual studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.frmConsulta.resources
+C:\Documents and Settings\tecnicos.COTET\Meus documentos\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.frmCadastro.resources
+C:\Documents and Settings\tecnicos.COTET\Meus documentos\Visual Studio 2010\Projects\CAM\CAM\obj\x86\Debug\CAM.frmCAM.resources
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.csproj.AssemblyReference.cache
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.frmCAM.resources
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.frmConsulta.resources
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.frmCadastro.resources
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.Properties.Resources.resources
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.csproj.GenerateResource.cache
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.csproj.CoreCompileInputs.cache
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.exe
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\obj\x86\Debug\CAM.pdb
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\bin\Debug\CAM.exe.config
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\bin\Debug\CAM.exe
+I:\RONALDO\BKP\bkp_16-06-2012\docs\Projects\CAM\CAM\bin\Debug\CAM.pdb
