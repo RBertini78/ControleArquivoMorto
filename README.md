@@ -19,8 +19,10 @@ Este projeto, desenvolvido em C# com banco de dados SQL Server, visa criar um si
 
 ### Contato
 [Ronaldo Bertini]
-[r.bertini@gmail.com / ronaldobertini@hotmail.com]  
-[[Seu LinkedIn](https://www.linkedin.com/in/ronaldo-bertini-214a37127/)]
+
+[r.bertini@gmail.com / ronaldobertini@hotmail.com] 
+
+[[LinkedIn](https://www.linkedin.com/in/ronaldo-bertini-214a37127/)]
 
 
 
