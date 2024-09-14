@@ -14,23 +14,13 @@ Este projeto, desenvolvido em C# com banco de dados SQL Server, visa criar um si
 * **Exclusão de documentos:** Permite excluir documentos do sistema.
 
 ### Instruções de Uso
-1. **Instalação:** Necessário criar uma base de dados executando o conteudo do script SQL que está em .
-2. **Configuração:** Detalhe as configurações necessárias para conectar ao banco de dados.
-3. **Utilização:** Forneça instruções passo a passo sobre como utilizar as principais funcionalidades do sistema.
-
-### Próximos Passos
-* **[Lista de funcionalidades futuras]:** Mencione as funcionalidades que você planeja adicionar ao sistema, como integração com outros sistemas, geração de gráficos, etc.
-
-### Contribuições
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhoria, por favor, abra um issue.
-
-### Licença
-[Mencione a licença utilizada para o projeto]
+1. **Instalação:** Necessário criar uma base de dados executando o conteudo do script SQL que está em scriptSQL.txt.
+2. **Configuração:** Alterar o campo connectionString do arquivo App.config com o nome do servidor SQL.
 
 ### Contato
-[Seu nome]
-[Seu email]
-[Seu LinkedIn]
+[Ronaldo Bertini]
+[r.bertini@gmail.com / ronaldobertini@hotmail.com]  
+[[Seu LinkedIn](https://www.linkedin.com/in/ronaldo-bertini-214a37127/)]
 
 
 
