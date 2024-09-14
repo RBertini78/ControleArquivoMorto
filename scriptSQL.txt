@@ -1,0 +1,24 @@
+USE master;
+GO
+
+-- Verifica se o banco de dados já existe e o remove se existir
+IF EXISTS (SELECT name FROM sys.databases WHERE name = 'controle_av')
+DROP DATABASE controle_av;
+GO
+
+-- Cria o banco de dados
+CREATE DATABASE controle_av;
+GO
+
+-- Usa o banco de dados recém-criado
+USE controle_av;
+GO
+
+-- Cria a tabela com as colunas especificadas
+CREATE TABLE tab_principal (
+    codigo_aluno INT PRIMARY KEY,
+    nome_aluno VARCHAR(100),
+    num_pasta INT,
+    num_prontuario INT
+);
+GO
